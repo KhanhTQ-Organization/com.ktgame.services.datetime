@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.ktgame.services.datetime" ignoreIfMissing="1">
+        <namespace fullname="com.ktgame.services.datetime" preserve="all"/>
+    </assembly>
+</linker>
