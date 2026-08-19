@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/KhanhTQ-Organization/com.ktgame.services.datetime/compare/v1.0.2...v1.0.3) (2026-08-19)
+
+
+### Bug Fixes
+
+* update time service ([d81d4a0](https://github.com/KhanhTQ-Organization/com.ktgame.services.datetime/commit/d81d4a089df8b5daafb7b5e2e937268dc99eb729))
+
 ## [1.0.2](https://github.com/KhanhTQ-Organization/com.ktgame.services.datetime/compare/v1.0.1...v1.0.2) (2026-05-06)
 
 
