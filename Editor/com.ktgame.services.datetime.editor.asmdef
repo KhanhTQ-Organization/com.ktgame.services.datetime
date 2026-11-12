@@ -1,10 +1,7 @@
 {
     "name": "com.ktgame.services.datetime.editor",
     "rootNamespace": "com.ktgame.services.datetime.editor",
-    "references": [
-        "GUID:5dc39970415b403468aca0772e0477ac",
-        "GUID:4862837d8be44a149b676e489629a280"
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],

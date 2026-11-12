@@ -2,11 +2,11 @@
   "name": "com.ktgame.services.datetime",
   "version": "1.0.3",
   "displayName": "com.ktgame.services.datetime",
-  "description": "KTgame Datetime Package\nhttps://github.com/dobrain/DobrainProWork",
+  "description": "KTgame DateTime Service: NTP time with offline fallback (UnbiasedTime)",
   "dependencies": {
     "com.ktgame.core": "1.0.11",
     "com.ktgame.unitask": "1.0.3",
-    "com.ktgame.datetime": "1.0.5"
+    "com.ktgame.datetime": "1.0.7"
   },
   "author": {
     "name": "ktgame",
